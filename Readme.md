@@ -1,4 +1,4 @@
-# MoveSense 🚶‍♂️📊
+# MoveSense 🚶‍♂️📊  Status: In-Consideration
 
 MoveSense is a smart fitness tracking application that detects user activities (walking, running, etc.) and provides real-time calorie burn insights along with daily calorie requirements.
 
